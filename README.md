@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello! My Name Is Mips
 
-<!--
-**Mipsza/mipsza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am just another fellow, who likes fooling around with codes and enjoying countless games.
 
-Here are some ideas to get you started:
+## 🕹️ Hobbies
+- **Games**: one of my biggest passions and hobbies, but surely an unhealthy obsession
+- **Coding**: I am not a coding ninja, but I simply love to create and learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Tools I Can Work With (sort of)
+- **HTML / CSS** | can make web pages look somewhat okay
+- **JavaScript** | can make web pages work most of the time
+- **Python** | language for my everyday scripts and random tests
+- **Batch** | why reinvent a wheel, when you have a .bat file?
+- Several other languages and tools, which I play with and break occasionally
+
+P.S. I rarely visit this profile, only when I have something to contribute or solve. Do not count on me maintaining a perfect green commit history.
+
+You can feel free to check out my GitHub repositories. There will be some unfinished projects, as well as working ones.
