@@ -1,4 +1,4 @@
-# Hello! My Name Is Mips
+# Hello! My Name Is Flere
 
 I am just another fellow, who likes fooling around with codes and enjoying countless games.
 
